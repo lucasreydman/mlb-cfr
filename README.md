@@ -1,4 +1,4 @@
-# Points League Draft Board
+# MLB CFR (Major League Baseball Custom Fantasy Rankings)
 
 A fantasy baseball draft board and roster tracker for points leagues. Uses VORP-based rankings with value-cliff tiers to help you draft by best available value. Tuned for a **12-team head-to-head points** league with roster: C, 1B, 2B, 3B, SS, OF×3, UTIL, SP×5, RP×1, Bench×5.
 

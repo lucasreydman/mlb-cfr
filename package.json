@@ -1,5 +1,5 @@
 {
-  "name": "baseball-rankings",
+  "name": "mlb-cfr",
   "version": "1.0.0",
   "description": "Points league draft board and roster tracker for fantasy baseball",
   "main": "server.js",
